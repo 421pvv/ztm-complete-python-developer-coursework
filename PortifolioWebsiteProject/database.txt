@@ -1,0 +1,7 @@
+Email,Subject,Message
+j@abc.com,HOLLAAA,Test123
+FAKE1@gmail.com,Vishnu,This is Vishnu
+FAKE2@gmail.com,ii,Namas
+FAKE3@gmail.com,Hey,Sup!
+jb@music.com,Justin,Bieber
+sel@mail.com,Selena,Gomez

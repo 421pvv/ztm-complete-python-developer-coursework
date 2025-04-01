@@ -177,3 +177,6 @@ cython_debug/
 .vscode
 tempCodeRunnerFile.py
 .idea
+
+# Mac OS specific files
+.DS_Store
